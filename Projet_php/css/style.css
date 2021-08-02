@@ -1,0 +1,10 @@
+#body{
+    background-color: rgb(93, 142, 233);
+}      
+#menu{
+    background-color: rgba(237, 243, 237, 0.692);
+    border: solid 3px rgb(44, 236, 147);
+    border-radius: 20px;
+    width: 60%;
+    
+}
